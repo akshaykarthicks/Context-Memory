@@ -49,5 +49,3 @@ This workflow implements a Telegram bot using [n8n](https://n8n.io/) that connec
 
 ---
 
-## 🧠 Flow Summary
-
