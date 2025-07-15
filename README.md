@@ -2,6 +2,12 @@
 
 This workflow implements a Telegram bot using [n8n](https://n8n.io/) that connects users to an AI assistant powered by OpenRouter (LLMs), Zep (vector memory), and Postgres. It processes messages in real time and responds contextually using user-specific memory.
 
+
+
+<img width="1006" height="509" alt="image" src="https://github.com/user-attachments/assets/a55cd33b-b35e-44ff-9023-ed2ece036c3b" />
+<img width="1271" height="661" alt="image" src="https://github.com/user-attachments/assets/36ad0cf5-b28e-4cde-a030-3cbcae947b77" />
+
+
 ---
 
 ## 🚀 Features
