@@ -43,7 +43,6 @@ This workflow implements a Telegram bot using [n8n](https://n8n.io/) that connec
    - Telegram API
    - Zep API
    - OpenRouter API
-   - Postgres (optional)
 3. Start the Telegram bot and interact with it via chat.
 4. Incoming queries are enriched with facts from Zep, processed by LLMs, and memory is updated per session.
 
